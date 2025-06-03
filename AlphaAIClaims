@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Connect with Joseph Kline</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding-top: 60px;
+      background-color: #f2f2f2;
+    }
+    .button {
+      background-color: #003366;
+      color: white;
+      padding: 16px 32px;
+      font-size: 18px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    .button:hover {
+      background-color: #0055a5;
+    }
+  </style>
+</head>
+<body>
+  <h1>📍 Work With Joseph Kline</h1>
+  <p>Florida Public Adjuster | Coastal Claims Services</p>
+  <p>Get help on your claim or refer a client below.</p>
+
+  <a href="https://coastalclaims.net/assign-a-claim/" target="_blank" class="button">📤 Assign a Claim / Refer a Client</a>
+  
+  <br><br>
+
+  <a href="mailto:j21kline@gmail.com" class="button" style="background-color:#4CAF50;">📧 Email Joseph</a>
+
+  <br><br>
+
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" class="button" style="background-color:#0077B5;">🔗 Connect on LinkedIn</a>
+</body>
+</html>
